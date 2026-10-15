@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/bmsousa9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-Em 2022 decidi mergulhar em Cloud Computing e mudar de carreira. Descobri que ensinar é a melhor forma de aprender, e hoje formo pessoas para o mercado de nuvem. Meu foco é **formar gente, não só ensinar ferramentas**.
-
 ### 🔭 Agora
 - Cursando a **Pós Tech FIAP em DevOps e Arquitetura Cloud**
 - Estudando **SRE**: confiabilidade, observabilidade e automação
