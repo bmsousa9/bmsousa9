@@ -31,6 +31,3 @@ Carreira em nuvem · AWS · Linux · Python · Segurança
 ### 📌 Em destaque
 **[togglemaster-analytics-service](https://github.com/bmsousa9/togglemaster-analytics-service)**: worker em Python que lê eventos do **SQS** e grava no **DynamoDB**, empacotado em Docker.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmsousa9&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats" height="150">
-</p>
