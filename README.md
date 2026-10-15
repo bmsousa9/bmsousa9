@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Bruno Sousa 👋</h1>
 
 <p align="center">
-  Technical Trainer no AWS re/Start · Mentor Técnico · Consultant <br>
+  Technical Trainer no AWS re/Start · Consultant · Mentor Técnico<br>
   Pós Tech FIAP em DevOps e Arquitetura Cloud
 </p>
 
