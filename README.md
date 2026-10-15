@@ -14,8 +14,8 @@
 - Estudando **SRE**: confiabilidade, observabilidade e automação
 - Construindo o **ToggleMaster**, projeto em grupo com microsserviços em Docker e Kubernetes (EKS)
 
-### 💬 Pode falar comigo sobre
-Carreira em nuvem · AWS · Linux · Python · Segurança
+### 💬 ADoro falar sobre
+Carreira em nuvem · AWS · Linux · Python · Segurança · Star Trek
 
 ### 🏅 Certificações
 5x AWS · 6x Microsoft · 1x Datadog
